@@ -1,0 +1,15 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jonat/source/repos/PongMonogame/Content/Arial.spritefont","C:/Users/jonat/source/repos/PongMonogame/Content/bin/DesktopGL/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.1471375
+"C:/Users/jonat/source/repos/PongMonogame/Content/blue.png","C:/Users/jonat/source/repos/PongMonogame/Content/bin/DesktopGL/Content/blue.xnb","TextureProcessor","Texture2DContent",13691,262229,0.0967782
+"C:/Users/jonat/source/repos/PongMonogame/Content/circle.png","C:/Users/jonat/source/repos/PongMonogame/Content/bin/DesktopGL/Content/circle.xnb","TextureProcessor","Texture2DContent",355,1109,0.0028946
+"C:/Users/jonat/source/repos/PongMonogame/Content/diamond.png","C:/Users/jonat/source/repos/PongMonogame/Content/bin/DesktopGL/Content/diamond.xnb","TextureProcessor","Texture2DContent",388,1109,0.0009563
+"C:/Users/jonat/source/repos/PongMonogame/Content/earth - Copy.png","C:/Users/jonat/source/repos/PongMonogame/Content/bin/DesktopGL/Content/earth - Copy.xnb","TextureProcessor","Texture2DContent",52980,133301,0.0042545
+"C:/Users/jonat/source/repos/PongMonogame/Content/earth.png","C:/Users/jonat/source/repos/PongMonogame/Content/bin/DesktopGL/Content/earth.xnb","TextureProcessor","Texture2DContent",52980,133301,0.0030532
+"C:/Users/jonat/source/repos/PongMonogame/Content/endor.spritefont","C:/Users/jonat/source/repos/PongMonogame/Content/bin/DesktopGL/Content/endor.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37922,0.1623524
+"C:/Users/jonat/source/repos/PongMonogame/Content/green.png","C:/Users/jonat/source/repos/PongMonogame/Content/bin/DesktopGL/Content/green.xnb","TextureProcessor","Texture2DContent",10885,262229,0.005223
+"C:/Users/jonat/source/repos/PongMonogame/Content/red - Copy.png","C:/Users/jonat/source/repos/PongMonogame/Content/bin/DesktopGL/Content/red - Copy.xnb","TextureProcessor","Texture2DContent",13180,262229,0.0049451
+"C:/Users/jonat/source/repos/PongMonogame/Content/red.png","C:/Users/jonat/source/repos/PongMonogame/Content/bin/DesktopGL/Content/red.xnb","TextureProcessor","Texture2DContent",13180,262229,0.0050274
+"C:/Users/jonat/source/repos/PongMonogame/Content/shuttle.png","C:/Users/jonat/source/repos/PongMonogame/Content/bin/DesktopGL/Content/shuttle.xnb","TextureProcessor","Texture2DContent",9105,125045,0.0031946
+"C:/Users/jonat/source/repos/PongMonogame/Content/SmileyWalk.png","C:/Users/jonat/source/repos/PongMonogame/Content/bin/DesktopGL/Content/SmileyWalk.xnb","TextureProcessor","Texture2DContent",40026,262229,0.0055088
+"C:/Users/jonat/source/repos/PongMonogame/Content/star.png","C:/Users/jonat/source/repos/PongMonogame/Content/bin/DesktopGL/Content/star.xnb","TextureProcessor","Texture2DContent",380,1045,0.001046
+"C:/Users/jonat/source/repos/PongMonogame/Content/stars.jpg","C:/Users/jonat/source/repos/PongMonogame/Content/bin/DesktopGL/Content/stars.xnb","TextureProcessor","Texture2DContent",150614,1920085,0.0462533

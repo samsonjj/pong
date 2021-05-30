@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/jonat/source/repos/PongMonogame/Content/Arial.spritefont</File>
+    <File>C:/Users/jonat/source/repos/PongMonogame/Content/blue.png</File>
+    <File>C:/Users/jonat/source/repos/PongMonogame/Content/circle.png</File>
+    <File>C:/Users/jonat/source/repos/PongMonogame/Content/diamond.png</File>
+    <File>C:/Users/jonat/source/repos/PongMonogame/Content/earth - Copy.png</File>
+    <File>C:/Users/jonat/source/repos/PongMonogame/Content/earth.png</File>
+    <File>C:/Users/jonat/source/repos/PongMonogame/Content/endor.spritefont</File>
+    <File>C:/Users/jonat/source/repos/PongMonogame/Content/green.png</File>
+    <File>C:/Users/jonat/source/repos/PongMonogame/Content/red - Copy.png</File>
+    <File>C:/Users/jonat/source/repos/PongMonogame/Content/red.png</File>
+    <File>C:/Users/jonat/source/repos/PongMonogame/Content/shuttle.png</File>
+    <File>C:/Users/jonat/source/repos/PongMonogame/Content/SmileyWalk.png</File>
+    <File>C:/Users/jonat/source/repos/PongMonogame/Content/star.png</File>
+    <File>C:/Users/jonat/source/repos/PongMonogame/Content/stars.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

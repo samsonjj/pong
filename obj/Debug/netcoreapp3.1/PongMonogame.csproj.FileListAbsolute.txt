@@ -1,0 +1,37 @@
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\PongMonogame.exe
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\PongMonogame.deps.json
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\PongMonogame.runtimeconfig.json
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\PongMonogame.runtimeconfig.dev.json
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\PongMonogame.dll
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\PongMonogame.pdb
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\jonat\source\repos\PongMonogame\obj\Debug\netcoreapp3.1\PongMonogame.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\PongMonogame\obj\Debug\netcoreapp3.1\PongMonogame.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\PongMonogame\obj\Debug\netcoreapp3.1\PongMonogame.AssemblyInfo.cs
+C:\Users\jonat\source\repos\PongMonogame\obj\Debug\netcoreapp3.1\PongMonogame.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\PongMonogame\obj\Debug\netcoreapp3.1\PongMonogame.csproj.CopyComplete
+C:\Users\jonat\source\repos\PongMonogame\obj\Debug\netcoreapp3.1\PongMonogame.dll
+C:\Users\jonat\source\repos\PongMonogame\obj\Debug\netcoreapp3.1\PongMonogame.pdb
+C:\Users\jonat\source\repos\PongMonogame\obj\Debug\netcoreapp3.1\PongMonogame.genruntimeconfig.cache
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\Content\blue.xnb
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\Content\circle.xnb
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\Content\diamond.xnb
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\Content\earth - Copy.xnb
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\Content\earth.xnb
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\Content\green.xnb
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\Content\red - Copy.xnb
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\Content\red.xnb
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\Content\shuttle.xnb
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\Content\SmileyWalk.xnb
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\Content\star.xnb
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\Content\stars.xnb
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\Content\endor.xnb
+C:\Users\jonat\source\repos\PongMonogame\bin\Debug\netcoreapp3.1\Content\Arial.xnb
